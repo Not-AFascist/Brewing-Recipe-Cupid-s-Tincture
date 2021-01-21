@@ -1,0 +1,18 @@
+name: "&dSweet Juice/&dLover’s Brew/&d&lCupid’s Tincture"
+      ingredients:
+      - NETHER_STALK/5
+      - SUGAR/8
+      - RED_ROSE,4/3
+      - INK_SAC,9/7
+      cookingtime: 11
+      distillruns: 4
+      distilltime: 33
+      wood: 2
+      age: 2
+      color: PINK
+      difficulty: 7
+      alcohol: 39
+      effects: 
+-ABSOBTION/1/10
+-NAUSEA/2/4
+-HEALTH_BOOST/2/2-12
